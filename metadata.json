@@ -1,0 +1,15 @@
+{
+  "uuid": "topbar-monitor@daoduong007",
+  "name": "Topbar Monitor",
+  "description": "Lightweight CPU / RAM / GPU / temperature readout in the top bar. Reads /proc and /sys directly; supports Intel (i915, xe), AMD and NVIDIA GPUs.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "version": 1,
+  "url": "https://github.com/daoduong007/topbar-monitor"
+}
